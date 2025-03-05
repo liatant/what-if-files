@@ -1,0 +1,16 @@
+,Aspect,Average score change,Max score change,Min score change,% positive score change,% negative score change,Number of added items,Number of different values,Value existed in another aspect or title
+3,ITEM_TITLE,0.67,1.0,-0.1,75.61,1.22,0,82,0
+8,Player/Athlete,0.61,0.99,-0.07,2.44,1.22,1,9,70
+13,Subset,0.6,0.6,-0.02,7.14,0.0,14,0,3
+10,Season,0.51,0.79,-0.02,6.1,0.0,2,10,70
+7,Parallel/Variety,0.45,0.99,-0.08,39.51,2.47,16,59,11
+11,Set,0.41,0.92,-0.04,14.63,0.0,11,30,39
+1,Card Number,0.38,0.91,-0.18,29.27,3.66,34,14,32
+5,League,0.3,0.36,-0.14,2.6,3.9,18,28,1
+4,Insert Set,0.29,0.98,-0.15,25.0,5.0,38,2,8
+9,Print Run,0.17,0.21,-0.16,4.55,4.55,33,5,39
+14,Team,0.14,0.23,-0.04,5.19,0.0,19,5,7
+2,Features,0.12,0.24,-0.08,3.7,3.7,19,44,9
+0,Autographed,0.11,0.12,-0.02,8.7,0.0,6,1,0
+6,Manufacturer,0.06,0.06,-0.03,1.22,0.0,6,17,53
+12,Sport,,0.0,-0.08,0.0,1.22,0,6,10
